@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on any C++ open-source projects but am willing to learn and help on multiple projects as well.
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/obblivignes-kanchanadevivenkataraman-b870191b6/
+
 Discord: ClutteredSmoke#4014
+
 Phone: (828) 455-5022
+
 Email: Personal - obblivignes.kv@gmail.com
        School - okancha@ncsu.edu
 
