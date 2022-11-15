@@ -3,6 +3,7 @@
 - 🌱 I’m currently taking a Bachelor's in Computer Engineering at NC State University. 
 - 💞️ I’m looking to collaborate on any C++ open-source projects but am willing to learn and help on multiple projects as well.
 - 📫 How to reach me:
+
 LinkedIn: https://www.linkedin.com/in/obblivignes-kanchanadevivenkataraman-b870191b6/
 
 Discord: ClutteredSmoke#4014
